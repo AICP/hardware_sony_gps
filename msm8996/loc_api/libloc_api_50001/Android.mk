@@ -44,7 +44,7 @@ LOCAL_CFLAGS += \
 LOCAL_C_INCLUDES:= \
     $(TARGET_OUT_HEADERS)/gps.utils \
     $(TARGET_OUT_HEADERS)/libloc_core \
-    hardware/qcom/gps/msm8996/loc_api/libloc_api_50001 \
+    hardware/sony/qcom/gps/msm8996/loc_api/libloc_api_50001 \
     $(TARGET_OUT_HEADERS)/libflp
 
 LOCAL_HEADER_LIBRARIES := libgps.utils_headers libloc_core_headers
